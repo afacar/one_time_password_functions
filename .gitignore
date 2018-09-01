@@ -1,3 +1,2 @@
-%RESOURCES_DIR%
 functions/node_modules/**/*
 functions/service-account.json
